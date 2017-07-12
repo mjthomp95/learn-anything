@@ -176,7 +176,7 @@
       "parent": "help"
     },
     {
-      "text": "1. data structures by Bereley uni",
+      "text": "1. Data structures by Bereley uni",
       "url": "https://www.youtube.com/watch?v=QMV45tHCYNI&amp;list=PL4BBB74C7D2A1049C",
       "fx": 172.50971221923828,
       "fy": -588.9015731811523,
@@ -185,11 +185,20 @@
       "parent": "basics"
     },
     {
-      "text": "1. 10 common data structures explained  ️",
+      "text": "2. 10 common data structures explained  ️",
       "url": "https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b",
       "fx": 172.50972366333008,
       "fy": -523.7831649780273,
       "category": "article",
+      "color": "rgba(0, 224, 161, 1.0)",
+      "parent": "basics"
+    },
+    {
+      "text": "3. Visual Representation of Algorithms & Data Structures",
+      "url": "https://visualgo.net/en",
+      "fx": 172.50972366333008,
+      "fy": -470.7831649780273,
+      "category": "",
       "color": "rgba(0, 224, 161, 1.0)",
       "parent": "basics"
     }
